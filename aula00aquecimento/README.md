@@ -1,0 +1,13 @@
+- Variáveis
+- Tipos de dados
+- Entrada de dados
+- Conversão de dados
+- Operadores aritméticos
+- Operadores relacionais
+- Operadores lógicos
+- Estrutura de decisão: if
+- Laço de repetição: while
+- Laço de repetição: for
+- Listas
+- Dicionários
+- Funções
